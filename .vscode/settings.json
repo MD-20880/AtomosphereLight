@@ -1,0 +1,15 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "idf.portWin": "COM4",
+    "files.associations": {
+        "*.ejs": "html",
+        "esp_chip_info.h": "c",
+        "esp_flash.h": "c",
+        "task.h": "c",
+        "freertos.h": "c",
+        "esp_rom_gpio.h": "c",
+        "ledc.h": "c",
+        "xutility": "c"
+    },
+    "idf.flashType": "UART"
+}

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+F:/Personal/AtomosphereLight/Light/hello_world/build/CMakeFiles/bootloader
+F:/Personal/AtomosphereLight/Light/hello_world/build/CMakeFiles/bootloader.rule
+F:/Personal/AtomosphereLight/Light/hello_world/build/CMakeFiles/bootloader-complete.rule
+F:/Personal/AtomosphereLight/Light/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+F:/Personal/AtomosphereLight/Light/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+F:/Personal/AtomosphereLight/Light/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+F:/Personal/AtomosphereLight/Light/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+F:/Personal/AtomosphereLight/Light/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+F:/Personal/AtomosphereLight/Light/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+F:/Personal/AtomosphereLight/Light/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
